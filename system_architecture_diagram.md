@@ -46,39 +46,7 @@
 
 ## Chi tiết Module:
 
-### 1. HARVARD CV (CV_Harvard_DE.docx)
-```
-├── Header Information
-│   ├── Full Name
-│   ├── Contact Info (Phone, Email, Location)
-│   └── LinkedIn/GitHub
-│
-├── Professional Summary
-│   └── 2-3 lines highlighting key qualifications
-│
-├── Education
-│   └── Degree, University, Year, GPA (if applicable)
-│
-├── Professional Experience
-│   └── Reverse chronological order
-│       ├── Job Title, Company, Location, Dates
-│       ├── Bullet points with action verbs
-│       └── Quantifiable achievements
-│
-├── Technical Skills
-│   ├── Programming: Python, SQL
-│   ├── Big Data: Apache Spark, Spark SQL
-│   ├── Orchestration: Apache Airflow
-│   ├── Databases: Oracle, MySQL, PostgreSQL
-│   └── Tools: Git, Docker, Linux
-│
-├── Projects
-│   └── Data Engineering projects with tech stack
-│
-└── Certifications (if any)
-```
-
-### 2. SYSTEM DESIGN DOCUMENTATION
+### 1. SYSTEM DESIGN DOCUMENTATION
 ```
 ├── Architecture Overview
 │   ├── High-level system diagram
@@ -103,7 +71,7 @@
     └── Analytics layer
 ```
 
-### 3. TECHNICAL IMPLEMENTATION
+### 2. TECHNICAL IMPLEMENTATION
 ```
 ├── ETL Pipeline (etl_pipeline/)
 │   ├── spark_jobs/
@@ -167,7 +135,6 @@
 ## Output Files Structure:
 ```
 d:/CV4/
-├── CV_Harvard_DataEngineer.docx
 ├── system_architecture_diagram.md
 ├── architecture_diagram.png
 ├── technical_documentation/
@@ -185,9 +152,3 @@ d:/CV4/
     └── docker-compose.yml
 ```
 
-## Mục Tiêu:
-✅ CV Harvard format chuyên nghiệp
-✅ Sơ đồ hệ thống rõ ràng
-✅ Code mẫu cho Spark + SQL + Database
-✅ Proof of skills cho từng yêu cầu công việc
-✅ Portfolio hoàn chỉnh để phỏng vấn
